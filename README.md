@@ -1,10 +1,5 @@
-[![norsecorp](f)](https://rishavchanda.github.io)
-<style>
-.rounded {
-  clip-path:ellipse(50% 50%);
-}
-</style>
-<img class="rounded" align="right" lat="coding" width="400" src="https://cdn.dribbble.com/users/116488/screenshots/1653824/hacker-01.gif">
+[![norsecorp]("./readme_sources/dataprotection_101.gif")](https://rishavchanda.github.io)
+<img align="right" lat="coding" width="400" src="https://cdn.dribbble.com/users/116488/screenshots/1653824/hacker-01.gif">
 <h1 align="center">Hi 👋, I'm EL SHAMY Youssef</h1>
 <h3 align="center">A passionate ethical hacking student</h3>
 

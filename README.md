@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Pentesting**
 
-- 👨‍💻 All of my projects are available at [youssef.github.io](youssef.github.io)
+- 👨‍💻 All of my projects are available at [xxx-Y-xxx.github.io](xxx-Y-xxx.github.io)
 
 - 💬 Ask me about **Linux, networking and pentesting**
 
-- 📫 How to reach me **fjmqsjfmsjd@myail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/nimportequoi](https://drive.google.com/nimportequoi)
+- 📫 How to reach me **@youssef_.#6897** on discord 
 
 - ⚡ Fun fact **I think I am funny**
 

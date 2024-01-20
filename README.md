@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pentesting**
 
-- 👨‍💻 All of my projects are available at [xxx-Y-xxx.github.io](xxx-Y-xxx.github.io)
+- 👨‍💻 All of my projects are available at [xxx-Y-xxx.github.io](https://youssefelshamy.notion.site/BUT-R-T-dd6444f1ef1340ae903e6fa1574a62d4?pvs=4)
 
 - 💬 Ask me about **Linux, networking and pentesting**
 
